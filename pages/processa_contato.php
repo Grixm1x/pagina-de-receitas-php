@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if ($erros) {
         echo "<ul>";
         foreach ($erros as $erro) {
-            echo "<li>$erro</li>";
+            echo "<li>$erro</li>";  
         }
         echo "</ul>";
     } else {

@@ -1,4 +1,4 @@
-<h1>Seja muito bem-vindo(a) ao Cooking Receitas!</h1>
+<h1>Seja muito bem-vindo ao Cooking Receitas!</h1>
 <p>Aqui, acreditamos que cozinhar não precisa ser complicado — pode (e deve!) ser leve, prático e delicioso.<br>
     Nosso objetivo é ajudar você a preparar refeições incríveis com ingredientes simples e passo a passo descomplicado.
     Seja para o café da manhã, almoço em família, jantar romântico ou aquele docinho depois do expediente, você vai
